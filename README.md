@@ -1,4 +1,4 @@
-# Celebrities_Classification
+# Celebrities Classification
 
 ## Chosen Model:
 The chosen model is a Convolutional Neural Network (CNN) for the classification of celebrity images.
